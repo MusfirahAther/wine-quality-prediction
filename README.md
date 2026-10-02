@@ -9,6 +9,7 @@ The project combines three pieces:
 3. A frontend form in `index.html`
 
 The overall idea is straightforward: the user enters 11 wine features, the Flask app converts those values into a numeric array, the trained model makes a prediction, and the result is shown back on the page.
+https://wine-quality-prediction-one.vercel.app/
 
 ## Repository Structure
 
