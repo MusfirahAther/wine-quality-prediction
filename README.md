@@ -7,10 +7,10 @@ The project combines three pieces:
 1. A trained machine learning model saved as `model.pkl`
 2. A Flask backend in `app.py`
 3. A frontend form in `index.html`
-4. https://wine-quality-prediction-theta.vercel.app/
+ https://wine-quality-prediction-theta.vercel.app/
 
 The overall idea is straightforward: the user enters 11 wine features, the Flask app converts those values into a numeric array, the trained model makes a prediction, and the result is shown back on the page.
-https://wine-quality-prediction-one.vercel.app/
+
 
 ## Repository Structure
 
