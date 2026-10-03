@@ -131,7 +131,7 @@ This starts the Flask development server locally.
 
 ## Frontend Explanation
 
-The user interface lives in [index.html](C:\Users\Hp_Ed\OneDrive\Desktop\wine-quality-prediction\index.html).
+The user interface lives in [[index.html](C:\Users\Hp_Ed\OneDrive\Desktop\wine-quality-prediction\index.html).](https://wine-quality-prediction-x1pm.vercel.app/predict)
 
 ### What the page contains
 
