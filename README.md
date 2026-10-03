@@ -51,7 +51,7 @@ The application flow is:
 ## Backend Explanation
 
 The backend logic lives in ## Live Demo
-https://wine-quality-prediction-x1pm-bl12412gb-musfirahathers-projects.vercel.app/
+[https://wine-quality-prediction-x1pm-bl12412gb-musfirahathers-projects.vercel.app/](https://wine-quality-prediction-theta.vercel.app/)
 
 ### 1. Import dependencies
 
