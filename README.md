@@ -50,8 +50,9 @@ The application flow is:
 
 ## Backend Explanation
 
-The backend logic lives in [[app.py](C:\Users\Hp_Ed\OneDrive\Desktop\wine-quality-prediction\app.py)](https://wine-quality-prediction-x1pm-bl12412gb-musfirahathers-projects.vercel.app/).
+The backend logic lives in ## Live Demo
 
+[Wine Quality Predictor](https://wine-quality-prediction-x1pm-bl12412gb-musfirahathers-projects.vercel.app/)
 ### 1. Import dependencies
 
 ```python
